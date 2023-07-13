@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nini
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
-- 💞️ Collab with Team Cat
+- 👋 Hi, I’m Aymo
+- 👀 I’m coding a new minecraft client
+- 🌱 I’m currently learning Java
+- 💞️ Collaborating with Team Cat
 - 📫 Sub to https://youtube.com/@notaymo
 
 <!---
