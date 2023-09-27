@@ -1,3 +1,6 @@
+# Please dont see this its from 2020 i was cringe
+
+
 - 👋 Hi, I’m Aymo
 - 👀 I’m coding a new minecraft client
 - 🌱 I’m currently learning Java
